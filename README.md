@@ -41,18 +41,15 @@ Both games require the following dependencies:
 
 To install the Pygame library, run the following command:
 
-```shell
-pip install pygame
+`pip install pygame`
 
 ## Running the Games
 
 To play either of the games, execute the corresponding script using Python:
 
-```shell
-python AimTrainer.py
+`python AimTrainer.py`
 
-```shell
-python TypingTrainer.py
+`python TypingTrainer.py`
 
 ## License
 The scripts in this repository are licensed under the MIT License.
